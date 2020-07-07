@@ -61,7 +61,7 @@ Folder: [4_Atom_tracing](./4_Atom_tracing)
 
 Run the codes `Main_atom_tracing_Ta_film.m`, `Main_atom_tracing_Pd1_nanoparticle.m` and `Main_atom_tracing_Pd2_nanoparticle.m` to trace the potential atomic positions from the reconstructed 3D volumes.
 
-Run the codes `Main_remove_non_atom_peak_Ta_film.m`, `Main_remove_non_atom_peak_Pd1_nanoparticle.m` and `Main_remove_non_atom_peak_Pd2_nanoparticle.m`? to separate non-atoms from the potential atoms using the K-mean clustering method. By carefully comparing the individual atomic positions in the potential atomic models with the 3D reconstructions, a small fraction of unidentified or misidentified atoms were manually corrected, producing the 3D atomic models of the three amorphous materials.
+Run the codes `Main_remove_non_atom_peak_Ta_film.m`, `Main_remove_non_atom_peak_Pd1_nanoparticle.m` and `Main_remove_non_atom_peak_Pd2_nanoparticle.m` to separate non-atoms from the potential atoms using the K-mean clustering method. By carefully comparing the individual atomic positions in the potential atomic models with the 3D reconstructions, a small fraction of unidentified or misidentified atoms were manually corrected, producing the 3D atomic models of the three amorphous materials.
 
 ### 5. Atomic Position Refinement
 
@@ -79,7 +79,7 @@ This folder contains the final 3D atomic models of the Ta thin film and two Pd n
 
 Folder: [7_Data_analysis](./7_Data_analysis)
 
-Run the codes `Main_1_rdf_and_boo_entire_sample_Ta_film.m`, `Main_1_rdf_and_boo_entire_sample_Pd1_nanoparticle.m` and `Main_1_rdf_and_boo_entire_sample_Pd2_nanoparticle.m`?to calculate the radial distribution functions and the bond orientation order parameter for all the atoms in the three amorphous materials.
+Run the codes `Main_1_rdf_and_boo_entire_sample_Ta_film.m`, `Main_1_rdf_and_boo_entire_sample_Pd1_nanoparticle.m` and `Main_1_rdf_and_boo_entire_sample_Pd2_nanoparticle.m` to calculate the radial distribution functions and the bond orientation order parameter for all the atoms in the three amorphous materials.
 
 Run the codes `Main_2_rdf_and_voronoi_amorphous_region_Ta_film.m`, `Main_2_rdf_and_voronoi_amorphous_region_Pd1_nanoparticle.m` and `Main_2_rdf_and_voronoi_amorphous_region_Pd2_nanoparticle.m` to compute the radial distribution functions and Voronoi indices for the disordered atoms in the three amorphous materials.
 
