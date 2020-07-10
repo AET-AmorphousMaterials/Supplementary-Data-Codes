@@ -5,7 +5,7 @@
 Yakun Yuan<sup>1*</sup>, Dennis S. Kim<sup>1*</sup>, Jihan Zhou<sup>1*</sup>, Dillan Chang<sup>1</sup>,  Fan Zhu<sup>1</sup>, Yasutaka Nagaoka<sup>2</sup>, Yao Yang<sup>1</sup>, Minh Pham<sup>3</sup>, Stanley J. Osher<sup>3</sup>, Ou Chen<sup>2</sup>, Peter Ercius<sup>4</sup>, Andreas K. Schmid<sup>4</sup> & Jianwei Miao<sup>1†</sup>    
 
 *<sup>1</sup>Department of Physics & Astronomy and California NanoSystems Institute, University of California, Los Angeles, CA 90095, USA.*    
-*<sup>2</sup>Department of Chemistry, Brown University, Providence, RI 02912*
+*<sup>2</sup>Department of Chemistry, Brown University, Providence, RI 02912.*
 *<sup>3</sup>Department of Mathematics, University of California, Los Angeles, CA 90095, USA.*     
 *<sup>4</sup>National Center for Electron Microscopy, Molecular Foundry, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA.*    
 **These authors contributed equally to this work.*    
