@@ -204,7 +204,7 @@ for i=faceremove
     ind(atomremove)=[];
 end
 dis=vecnorm(model(ind,:)-model(tid,:),2,2);
-%ind=ind(dis<bondlengthcutoff); % comment this line if don't want bond length regulation to the voronoi
+% ind=ind(dis<bondlengthcutoff); % comment this line if don't want bond length regulation to the voronoi
 neigh{tid}=model(ind,:);
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % re-calculate voronoi after regulation
