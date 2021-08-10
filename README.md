@@ -1,6 +1,6 @@
 # Supplementary Data Codes 
 
-**Direct observation of 3D atomic packing in monatomic amorphous materials**
+**Three-dimensional atomic packing in amorphous solids with liquid-like structure**
 
 Yakun Yuan<sup>1*</sup>, Dennis S. Kim<sup>1*</sup>, Jihan Zhou<sup>1*</sup>, Dillan J. Chang<sup>1</sup>,  Fan Zhu<sup>1</sup>, Yasutaka Nagaoka<sup>2</sup>, Yao Yang<sup>1</sup>, Minh Pham<sup>3</sup>, Stanley J. Osher<sup>3</sup>, Ou Chen<sup>2</sup>, Peter Ercius<sup>4</sup>, Andreas K. Schmid<sup>4</sup> & Jianwei Miao<sup>1†</sup>    
 
