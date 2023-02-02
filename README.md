@@ -11,6 +11,8 @@ Yakun Yuan<sup>1*</sup>, Dennis S. Kim<sup>1*</sup>, Jihan Zhou<sup>1*</sup>, Di
 **These authors contributed equally to this work.*    
 *†Correspondence and requests for materials should be addressed to J.M. (miao@physics.ucla.edu).*     
 
+[If you use any of the data and source codes in your publications and/or presentations, we request that you cite our paper: Y. Yuan, D. S. Kim, J. Zhou, D. J. Chang, F. Zhu, Y. Nagaoka, Y. Yang, M. Pham, S. J. Osher, O. Chen, P. Ercius, A. K. Schmid and J. Miao, "Three-dimensional atomic packing in amorphous solids with liquid-like structure", _Nature Materials_ **21**, 95–102 (2022).](https://www.nature.com/articles/s41563-021-01114-z)
+
 ## Contents
 
 - [Overview](#overview)
